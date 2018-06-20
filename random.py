@@ -1,0 +1,1 @@
+print('random module in python_import_example')
